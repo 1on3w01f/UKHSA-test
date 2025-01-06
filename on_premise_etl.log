@@ -1,0 +1,9 @@
+
+2025-01-06 08:56:43,460 - INFO - Starting ETL pipeline for on-premise.
+2025-01-06 08:56:43,460 - INFO - Extracting data from employee_data.csv
+2025-01-06 08:56:43,464 - INFO - Data extraction successful.
+2025-01-06 08:56:43,464 - INFO - Starting data transformation.
+2025-01-06 08:56:43,467 - INFO - Data transformation completed.
+2025-01-06 08:56:43,468 - INFO - Connecting to on-premise MySQL database.
+2025-01-06 08:56:43,646 - INFO - Data successfully loaded into etl_processed_data table.
+2025-01-06 08:56:43,646 - INFO - ETL pipeline completed successfully.

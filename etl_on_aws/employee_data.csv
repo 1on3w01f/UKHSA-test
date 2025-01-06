@@ -1,0 +1,12 @@
+EmployeeID, Name, Department, DateOfHire, Salary
+101, John Doe, Engineering, 2020-01-15, 75000
+102, Jane Smith, Marketing, 2019-07-22, 68000
+103, Bob Johnson, HR, 2021-03-10, 59000
+104, Alice Brown, Engineering, 2020-11-30, 80000
+105, Chris Davis, Sales, 2018-09-05, 72000
+106, Emma Wilson, Marketing, 2019-02-15, 67000
+107, Mike Taylor, Engineering, 2021-12-01, 81000
+108, Sarah Lee, HR, 2017-06-10, 60000
+109, Tom White, Sales, 2019-05-25, 71000
+110, Olivia Green, Engineering, 2020-04-20, 77000
+
